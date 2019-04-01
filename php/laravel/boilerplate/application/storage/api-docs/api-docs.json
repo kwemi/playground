@@ -1,0 +1,40 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Boirlerplate OpenApi",
+        "description": "Boilerplate OpenApi description",
+        "contact": {
+            "email": "matthieu.bonventi@gmail.com"
+        },
+        "license": {
+            "name": "No licence",
+            "url": ""
+        },
+        "version": "1.0.0"
+    },
+    "paths": {
+        "/hello": {
+            "get": {
+                "tags": [
+                    "Hello"
+                ],
+                "summary": "Get Hello world printed",
+                "description": "Returns Hello world",
+                "operationId": "getHelloWorld",
+                "responses": {
+                    "200": {
+                        "description": "successful operation"
+                    },
+                    "400": {
+                        "description": "Bad request"
+                    }
+                },
+                "security": [
+                    {
+                        "api_key_security_example": []
+                    }
+                ]
+            }
+        }
+    }
+}

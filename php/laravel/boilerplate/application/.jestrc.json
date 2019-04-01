@@ -1,0 +1,6 @@
+{
+  "roots": ["resources/assets/js"],
+  "testPathIgnorePatterns": [
+    "node_modules"
+  ]
+}
