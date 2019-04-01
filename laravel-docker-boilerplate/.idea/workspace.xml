@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e1236f08-07bd-4dca-b065-2b7163559869" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../../../fork/laradock/php-fpm/xdebug.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../fork/laradock/php-fpm/xdebug.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker-sync/daemon.pid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env.dist">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="164">
@@ -48,9 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/storage/xdebug_docker.log">
-          <provider selected="true" editor-type-id="LogFileEditorProvider" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manage.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1418" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -111,6 +115,7 @@
       <find>fastcgi_param SERVER_NAME $host;</find>
       <find>server</find>
       <find>docker</find>
+      <find>IDE</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -232,7 +237,7 @@
       <path value="$PROJECT_DIR$/application/vendor/doctrine/instantiator" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="53" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -260,6 +265,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -295,16 +301,15 @@
       <workItem from="1554042188964" duration="2139000" />
       <workItem from="1554044375537" duration="347000" />
       <workItem from="1554044750476" duration="322000" />
-      <workItem from="1554045092794" duration="1348000" />
+      <workItem from="1554045092794" duration="3503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15530000" />
+    <option name="totallyTimeSpent" value="17685000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="53" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982079" visible="true" weight="0.27106228" />
       <window_info id="Structure" order="1" sideWeight="0.50179213" side_tool="true" weight="0.26190478" />
@@ -483,6 +488,11 @@
         <state relative-caret-position="164">
           <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1418" />
       </provider>
     </entry>
   </component>
