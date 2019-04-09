@@ -4,12 +4,15 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/application/app" isTestSource="false" packagePrefix="App\" />
       <sourceFolder url="file://$MODULE_DIR$/application/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/arrilot/laravel-widgets" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/barryvdh/laravel-debugbar" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/beyondcode/laravel-dump-server" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/composer" />
-      <excludeFolder url="file://$MODULE_DIR$/application/vendor/darkaonline/l5-swagger" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/dnoegel/php-xdg-base-dir" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/doctrine/event-manager" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/doctrine/inflector" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/doctrine/instantiator" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/doctrine/lexer" />
@@ -19,9 +22,15 @@
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/fideloper/proxy" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/filp/whoops" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/guzzlehttp/psr7" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/intervention/image" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/jakub-onderka/php-console-color" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/justinrainbow/json-schema" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/larapack/doctrine-support" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/larapack/hooks" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/larapack/voyager-hooks" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/laravel/framework" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/laravel/tinker" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/league/flysystem" />
@@ -48,9 +57,11 @@
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/phpunit/php-token-stream" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/phpunit/phpunit" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/psr/http-message" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/psr/simple-cache" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/ralouphie/getallheaders" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/ramsey/uuid" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/sebastian/code-unit-reverse-lookup" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/sebastian/comparator" />
@@ -63,13 +74,15 @@
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/sebastian/recursion-context" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/sebastian/resource-operations" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/sebastian/version" />
-      <excludeFolder url="file://$MODULE_DIR$/application/vendor/swagger-api/swagger-ui" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/seld/jsonlint" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/seld/phar-utils" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/swiftmailer/swiftmailer" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/console" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/contracts" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/css-selector" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/debug" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/filesystem" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/finder" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/http-foundation" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/http-kernel" />
@@ -83,6 +96,7 @@
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/translation" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/var-dumper" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/application/vendor/tcg/voyager" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/tijsverkoyen/css-to-inline-styles" />
       <excludeFolder url="file://$MODULE_DIR$/application/vendor/vlucas/phpdotenv" />
