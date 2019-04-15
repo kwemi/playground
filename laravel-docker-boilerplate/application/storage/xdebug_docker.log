@@ -12405,3 +12405,30 @@
 [3116]
 [3116] Log closed at 2019-04-15 06:14:02
 [3116]
+[3125] Log opened at 2019-04-15 06:15:01
+[3125] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[3125] I: Connected to client. :-)
+[3125] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="3125"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[3125]
+[3125] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[3125]
+[3125] Log closed at 2019-04-15 06:15:03
+[3125]
+[3134] Log opened at 2019-04-15 06:16:01
+[3134] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[3134] I: Connected to client. :-)
+[3134] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="3134"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[3134]
+[3134] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[3134]
+[3134] Log closed at 2019-04-15 06:16:02
+[3134]
+[3145] Log opened at 2019-04-15 06:17:01
+[3145] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[3145] I: Connected to client. :-)
+[3145] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="3145"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[3145]
+[3145] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[3145]
+[3145] Log closed at 2019-04-15 06:17:02
+[3145]

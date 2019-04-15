@@ -48,7 +48,6 @@ class BasketProductController extends Controller
      */
     public function show(BasketProduct $basketProduct)
     {
-        dd($basketProduct);
         return response()->json($basketProduct);
     }
 
