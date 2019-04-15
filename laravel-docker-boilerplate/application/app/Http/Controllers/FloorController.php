@@ -69,9 +69,11 @@ class FloorController extends Controller
      * @param  \App\Floor  $floor
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Floor $floor)
+    public function update(Request $request, $id)
     {
-        //
+        $floor = Floor::findOrFail($id);
+        $floor->fill($request->all())->save();
+        return response()->json($floor);
     }
 
     /**

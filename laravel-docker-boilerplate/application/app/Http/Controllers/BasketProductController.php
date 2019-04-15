@@ -48,6 +48,7 @@ class BasketProductController extends Controller
      */
     public function show(BasketProduct $basketProduct)
     {
+        dd($basketProduct);
         return response()->json($basketProduct);
     }
 
@@ -69,9 +70,11 @@ class BasketProductController extends Controller
      * @param  \App\BasketProduct  $basketProduct
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, BasketProduct $basketProduct)
+    public function update(Request $request, $id)
     {
-        //
+        $basketProduct = Basket::findOrFail($id);
+        $basketProduct->fill($request->all())->save();
+        return response()->json($basketProduct);
     }
 
     /**

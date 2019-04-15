@@ -70,9 +70,11 @@ class ConfigurationController extends Controller
      * @param  \App\Configuration  $configuration
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Configuration $configuration)
+    public function update(Request $request, $id)
     {
-        //
+        $configuration = Configuration::findOrFail($id);
+        $configuration->fill($request->all())->save();
+        return response()->json($configuration);
     }
 
     /**

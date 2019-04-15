@@ -69,9 +69,11 @@ class UniverseController extends Controller
      * @param  \App\Universe  $universe
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Universe $universe)
+    public function update(Request $request, $id)
     {
-        //
+        $universe = Universe::findOrFail($id);
+        $universe->fill($request->all())->save();
+        return response()->json($universe);
     }
 
     /**

@@ -69,9 +69,11 @@ class BoothController extends Controller
      * @param  \App\Booth  $booth
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Booth $booth)
+    public function update(Request $request, $id)
     {
-        //
+        $booth = Booth::findOrFail($id);
+        $booth->fill($request->all())->save();
+        return response()->json($booth);
     }
 
     /**

@@ -69,9 +69,11 @@ class BasketController extends Controller
      * @param  \App\Basket  $basket
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Basket $basket)
+    public function update(Request $request, $id)
     {
-        //
+        $basket = Basket::findOrFail($id);
+        $basket->fill($request->all())->save();
+        return response()->json($basket);
     }
 
     /**

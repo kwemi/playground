@@ -69,9 +69,11 @@ class RatingController extends Controller
      * @param  \App\Rating  $rating
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Rating $rating)
+    public function update(Request $request, $id)
     {
-        //
+        $rating = Rating::findOrFail($id);
+        $rating->fill($request->all())->save();
+        return response()->json($rating);
     }
 
     /**

@@ -68,9 +68,11 @@ class BoothLevelController extends Controller
      * @param  \App\BoothLevel  $boothLevel
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, BoothLevel $boothLevel)
+    public function update(Request $request, $id)
     {
-        //
+        $boothLevel = BoothLevel::findOrFail($id);
+        $boothLevel->fill($request->all())->save();
+        return response()->json($boothLevel);
     }
 
     /**

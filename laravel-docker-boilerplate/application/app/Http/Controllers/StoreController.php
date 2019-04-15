@@ -69,9 +69,11 @@ class StoreController extends Controller
      * @param  \App\Store  $store
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Store $store)
+    public function update(Request $request, $id)
     {
-        //
+        $store = Store::findOrFail($id);
+        $store->fill($request->all())->save();
+        return response()->json($store);
     }
 
     /**
