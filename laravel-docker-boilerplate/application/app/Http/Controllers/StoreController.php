@@ -19,6 +19,16 @@ class StoreController extends Controller
     }
 
     /**
+     * Display a listing of all the floors per store
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function allFloors(Store $store)
+    {
+        return response()->json($store->floors);
+    }
+
+    /**
      * Show the form for creating a new resource.
      *
      * @return \Illuminate\Http\Response

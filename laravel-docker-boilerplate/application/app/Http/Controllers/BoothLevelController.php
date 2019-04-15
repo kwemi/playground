@@ -52,6 +52,17 @@ class BoothLevelController extends Controller
     }
 
     /**
+     * Display the specified resource.
+     *
+     * @param  \App\BoothLevel  $boothLevel
+     * @return \Illuminate\Http\Response
+     */
+    public function allConfigurations(BoothLevel $boothLevel)
+    {
+        return response()->json($boothLevel->configurations);
+    }
+
+    /**
      * Show the form for editing the specified resource.
      *
      * @param  \App\BoothLevel  $boothLevel

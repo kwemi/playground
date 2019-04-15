@@ -52,6 +52,17 @@ class UniverseController extends Controller
     }
 
     /**
+     * Display the specified resource.
+     *
+     * @param  \App\Universe  $floor
+     * @return \Illuminate\Http\Response
+     */
+    public function allBooths(Universe $universe)
+    {
+        return response()->json($universe->booths);
+    }
+
+    /**
      * Show the form for editing the specified resource.
      *
      * @param  \App\Universe  $universe

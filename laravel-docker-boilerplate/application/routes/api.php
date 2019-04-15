@@ -23,11 +23,17 @@ Route::get('/stores/{store}', 'StoreController@show')->name('stores.show');
 Route::post('/stores', 'StoreController@store')->name('stores.store');
 Route::put('/stores/{id}', 'StoreController@update')->name('stores.update');
 
+// Floors per store
+Route::get('/stores/{store}/floors/', 'StoreController@allFloors')->name('stores.allFloors');
+
 // Floor
 Route::get('/floors', 'FloorController@index')->name('floors.all');
 Route::get('/floors/{floor}', 'FloorController@show')->name('floors.show');
 Route::post('/floors', 'FloorController@store')->name('floors.store');
 Route::put('/floors/{id}', 'FloorController@update')->name('floors.update');
+
+// Universes per floor
+Route::get('/floors/{floor}/universes/', 'FloorController@allUniverses')->name('floors.allUniverses');
 
 // Univers
 Route::get('/universes', 'UniverseController@index')->name('universes.all');
@@ -35,17 +41,26 @@ Route::get('/universes/{universe}', 'UniverseController@show')->name('universes.
 Route::post('/universes', 'UniverseController@store')->name('universes.store');
 Route::put('/universes/{id}', 'UniverseController@update')->name('universes.update');
 
+// Booths per universe
+Route::get('/universes/{universe}/booths/', 'UniverseController@allBooths')->name('universes.allBooths');
+
 // Booth
 Route::get('/booths', 'BoothController@index')->name('booths.all');
 Route::get('/booths/{booth}', 'BoothController@show')->name('booths.show');
 Route::post('/booths', 'BoothController@store')->name('booths.store');
 Route::put('/booths/{id}', 'BoothController@update')->name('booths.update');
 
+// Booth levels per universe
+Route::get('/booths/{booth}/levels/', 'BoothController@allLevels')->name('booths.allLevels');
+
 // Booth Level
 Route::get('/booth_levels', 'BoothLevelController@index')->name('boothLevels.all');
 Route::get('/booth_levels/{boothLevel}', 'BoothLevelController@show')->name('boothLevels.show');
 Route::post('/booth_levels', 'BoothLevelController@store')->name('boothLevels.store');
 Route::put('/booth_levels/{id}', 'BoothLevelController@update')->name('boothLevels.update');
+
+// Configurations per level
+Route::get('/booth_levels/{boothLevel}/configurations', 'BoothLevelController@allConfigurations')->name('boothLevels.allConfigurations');
 
 // Product
 Route::get('/products', 'ProductController@index')->name('products.all');

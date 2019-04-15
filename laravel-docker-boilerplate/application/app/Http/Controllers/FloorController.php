@@ -52,6 +52,17 @@ class FloorController extends Controller
     }
 
     /**
+     * Display the specified resource.
+     *
+     * @param  \App\Floor  $floor
+     * @return \Illuminate\Http\Response
+     */
+    public function allUniverses(Floor $floor)
+    {
+        return response()->json($floor->universes);
+    }
+
+    /**
      * Show the form for editing the specified resource.
      *
      * @param  \App\Floor  $floor
