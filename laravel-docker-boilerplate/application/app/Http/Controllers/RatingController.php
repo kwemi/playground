@@ -14,7 +14,8 @@ class RatingController extends Controller
      */
     public function index()
     {
-        //
+        $ratings = Rating::all();
+        return response()->json($ratings);
     }
 
     /**
@@ -46,7 +47,7 @@ class RatingController extends Controller
      */
     public function show(Rating $rating)
     {
-        //
+        return response()->json($rating);
     }
 
     /**

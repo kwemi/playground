@@ -9330,3 +9330,945 @@
 [5321]
 [5321] Log closed at 2019-04-12 09:29:02
 [5321]
+[5330] Log opened at 2019-04-12 09:30:01
+[5330] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5330] I: Connected to client. :-)
+[5330] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5330"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5330]
+[5330] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5330]
+[5330] Log closed at 2019-04-12 09:30:02
+[5330]
+[5339] Log opened at 2019-04-12 09:31:01
+[5339] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5339] I: Connected to client. :-)
+[5339] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5339"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5339]
+[5339] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5339]
+[5339] Log closed at 2019-04-12 09:31:03
+[5339]
+[5348] Log opened at 2019-04-12 09:32:01
+[5348] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5348] I: Connected to client. :-)
+[5348] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5348"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5348]
+[5348] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5348]
+[5348] Log closed at 2019-04-12 09:32:02
+[5348]
+[5357] Log opened at 2019-04-12 09:33:01
+[5357] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5357] I: Connected to client. :-)
+[5357] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5357"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5357]
+[5357] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5357]
+[5357] Log closed at 2019-04-12 09:33:02
+[5357]
+[5366] Log opened at 2019-04-12 17:30:40
+[5366] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5366] I: Connected to client. :-)
+[5366] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5366"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5366]
+[5366] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5366]
+[5366] Log closed at 2019-04-12 17:30:42
+[5366]
+[5375] Log opened at 2019-04-12 23:45:06
+[5375] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5375] I: Connected to client. :-)
+[5375] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5375"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5375]
+[5375] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5375]
+[5375] Log closed at 2019-04-12 23:45:09
+[5375]
+[5384] Log opened at 2019-04-12 23:45:09
+[5384] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5384] I: Connected to client. :-)
+[5384] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5384"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5384]
+[5384] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5384]
+[5384] Log closed at 2019-04-12 23:45:10
+[5384]
+[5393] Log opened at 2019-04-12 23:46:01
+[5393] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5393] I: Connected to client. :-)
+[5393] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5393"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5393]
+[5393] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5393]
+[5393] Log closed at 2019-04-12 23:46:03
+[5393]
+[5417] Log opened at 2019-04-15 00:39:47
+[5404] Log opened at 2019-04-15 00:39:47
+[5417] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5417] I: Connected to client. :-)
+[5417] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="dbgp://stdin" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5417"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5417]
+[5404] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5404] I: Connected to client. :-)
+[5404] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5404"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5404]
+[5417] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5417]
+[5417] Log closed at 2019-04-15 00:39:47
+[5417]
+[5404] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5404]
+[5404] Log closed at 2019-04-15 00:39:48
+[5404]
+[5440] Log opened at 2019-04-15 00:40:01
+[5440] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5440] I: Connected to client. :-)
+[5440] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5440"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5440]
+[5440] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5440]
+[5440] Log closed at 2019-04-15 00:40:03
+[5440]
+[5449] Log opened at 2019-04-15 00:41:01
+[5449] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5449] I: Connected to client. :-)
+[5449] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5449"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5449]
+[5449] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5449]
+[5449] Log closed at 2019-04-15 00:41:06
+[5449]
+[5458] Log opened at 2019-04-15 00:42:02
+[5458] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5458] I: Connected to client. :-)
+[5458] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5458"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5458]
+[5458] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5458]
+[5458] Log closed at 2019-04-15 00:42:09
+[5458]
+[5467] Log opened at 2019-04-15 00:43:01
+[5467] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5467] I: Connected to client. :-)
+[5467] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5467"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5467]
+[5467] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5467]
+[5467] Log closed at 2019-04-15 00:43:03
+[5467]
+[5476] Log opened at 2019-04-15 00:44:01
+[5476] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5476] I: Connected to client. :-)
+[5476] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5476"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5476]
+[5476] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5476]
+[5476] Log closed at 2019-04-15 00:44:04
+[5476]
+[5485] Log opened at 2019-04-15 00:45:01
+[5485] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[5485] I: Connected to client. :-)
+[5485] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="5485"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[5485]
+[5485] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[5485]
+[5485] Log closed at 2019-04-15 00:45:03
+[5485]
+[38] Log opened at 2019-04-15 00:59:01
+[38] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[38] I: Connected to client. :-)
+[38] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="38"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[38]
+[38] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[38]
+[38] Log closed at 2019-04-15 00:59:03
+[38]
+[47] Log opened at 2019-04-15 01:00:01
+[47] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[47] I: Connected to client. :-)
+[47] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="47"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[47]
+[47] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[47]
+[47] Log closed at 2019-04-15 01:00:02
+[47]
+[54] Log opened at 2019-04-15 01:01:00
+[54] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[54] I: Connected to client. :-)
+[54] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="54"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[54]
+[58] Log opened at 2019-04-15 01:01:01
+[58] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[58] I: Connected to client. :-)
+[58] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/vendor/composer/composer/bin/composer" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="58"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[58]
+[61] Log opened at 2019-04-15 01:01:01
+[61] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[61] I: Connected to client. :-)
+[61] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="61"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[61]
+[61] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[61]
+[61] Log closed at 2019-04-15 01:01:02
+[61]
+[88] Log opened at 2019-04-15 01:01:13
+[88] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[88] I: Connected to client. :-)
+[88] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="88"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[88]
+[88] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[88]
+[88] Log closed at 2019-04-15 01:01:14
+[88]
+[58] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[58]
+[58] Log closed at 2019-04-15 01:01:14
+[58]
+[54] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[54]
+[54] Log closed at 2019-04-15 01:01:14
+[54]
+[97] Log opened at 2019-04-15 01:02:01
+[97] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[97] I: Connected to client. :-)
+[97] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="97"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[97]
+[97] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[97]
+[97] Log closed at 2019-04-15 01:02:02
+[97]
+[104] Log opened at 2019-04-15 01:02:17
+[104] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[104] I: Connected to client. :-)
+[104] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="104"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[104]
+[104] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[104]
+[104] Log closed at 2019-04-15 01:02:17
+[104]
+[108] Log opened at 2019-04-15 01:02:22
+[108] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[108] I: Connected to client. :-)
+[108] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="108"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[108]
+[108] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[108]
+[108] Log closed at 2019-04-15 01:02:22
+[108]
+[112] Log opened at 2019-04-15 01:02:25
+[112] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[112] I: Connected to client. :-)
+[112] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="112"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[112]
+[112] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[112]
+[112] Log closed at 2019-04-15 01:02:25
+[112]
+[118] Log opened at 2019-04-15 01:07:43
+[118] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[118] I: Connected to client. :-)
+[118] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="118"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[118]
+[118] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[118]
+[118] Log closed at 2019-04-15 01:07:44
+[118]
+[127] Log opened at 2019-04-15 01:07:45
+[127] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[127] I: Connected to client. :-)
+[127] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="127"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[127]
+[127] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[127]
+[127] Log closed at 2019-04-15 01:07:46
+[127]
+[136] Log opened at 2019-04-15 01:07:46
+[136] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[136] I: Connected to client. :-)
+[136] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="136"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[136]
+[136] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[136]
+[136] Log closed at 2019-04-15 01:07:47
+[136]
+[145] Log opened at 2019-04-15 01:07:47
+[145] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[145] I: Connected to client. :-)
+[145] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="145"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[145]
+[145] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[145]
+[145] Log closed at 2019-04-15 01:07:48
+[145]
+[154] Log opened at 2019-04-15 01:07:48
+[154] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[154] I: Connected to client. :-)
+[154] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="154"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[154]
+[154] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[154]
+[154] Log closed at 2019-04-15 01:07:50
+[154]
+[163] Log opened at 2019-04-15 01:08:03
+[163] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[163] I: Connected to client. :-)
+[163] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="163"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[163]
+[163] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[163]
+[163] Log closed at 2019-04-15 01:08:04
+[163]
+[170] Log opened at 2019-04-15 01:08:42
+[170] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[170] I: Connected to client. :-)
+[170] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="170"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[170]
+[170] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[170]
+[170] Log closed at 2019-04-15 01:08:43
+[170]
+[178] Log opened at 2019-04-15 01:09:01
+[178] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[178] I: Connected to client. :-)
+[178] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="178"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[178]
+[191] Log opened at 2019-04-15 01:09:01
+[191] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[191] I: Connected to client. :-)
+[191] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="dbgp://stdin" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="191"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[191]
+[191] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[191]
+[191] Log closed at 2019-04-15 01:09:01
+[191]
+[178] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[178]
+[178] Log closed at 2019-04-15 01:09:03
+[178]
+[214] Log opened at 2019-04-15 01:10:01
+[214] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[214] I: Connected to client. :-)
+[214] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="214"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[214]
+[214] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[214]
+[214] Log closed at 2019-04-15 01:10:02
+[214]
+[223] Log opened at 2019-04-15 01:11:01
+[223] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[223] I: Connected to client. :-)
+[223] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="223"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[223]
+[223] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[223]
+[223] Log closed at 2019-04-15 01:11:02
+[223]
+[232] Log opened at 2019-04-15 01:12:01
+[232] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[232] I: Connected to client. :-)
+[232] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="232"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[232]
+[232] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[232]
+[232] Log closed at 2019-04-15 01:12:02
+[232]
+[241] Log opened at 2019-04-15 01:13:01
+[241] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[241] I: Connected to client. :-)
+[241] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="241"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[241]
+[241] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[241]
+[241] Log closed at 2019-04-15 01:13:02
+[241]
+[248] Log opened at 2019-04-15 01:13:31
+[248] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[248] I: Connected to client. :-)
+[248] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="248"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[248]
+[252] Log opened at 2019-04-15 01:13:32
+[252] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[252] I: Connected to client. :-)
+[252] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/vendor/composer/composer/bin/composer" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="252"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[252]
+[273] Log opened at 2019-04-15 01:13:41
+[273] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[273] I: Connected to client. :-)
+[273] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="273"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[273]
+[273] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[273]
+[273] Log closed at 2019-04-15 01:13:42
+[273]
+[252] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[252]
+[252] Log closed at 2019-04-15 01:13:42
+[252]
+[248] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[248]
+[248] Log closed at 2019-04-15 01:13:42
+[248]
+[282] Log opened at 2019-04-15 01:14:01
+[282] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[282] I: Connected to client. :-)
+[282] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="282"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[282]
+[282] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[282]
+[282] Log closed at 2019-04-15 01:14:02
+[282]
+[289] Log opened at 2019-04-15 01:14:20
+[289] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[289] I: Connected to client. :-)
+[289] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="289"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[289]
+[293] Log opened at 2019-04-15 01:14:26
+[293] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[293] I: Connected to client. :-)
+[293] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="293"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[293]
+[293] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[293]
+[293] Log closed at 2019-04-15 01:14:27
+[293]
+[299] Log opened at 2019-04-15 01:15:01
+[299] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[299] I: Connected to client. :-)
+[299] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="299"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[299]
+[299] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[299]
+[299] Log closed at 2019-04-15 01:15:03
+[299]
+[308] Log opened at 2019-04-15 01:16:01
+[308] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[308] I: Connected to client. :-)
+[308] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="308"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[308]
+[308] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[308]
+[308] Log closed at 2019-04-15 01:16:02
+[308]
+[315] Log opened at 2019-04-15 01:16:54
+[315] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[315] I: Connected to client. :-)
+[315] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="315"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[315]
+[315] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[315]
+[315] Log closed at 2019-04-15 01:16:55
+[315]
+[323] Log opened at 2019-04-15 01:17:01
+[323] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[323] I: Connected to client. :-)
+[323] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="323"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[323]
+[323] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[323]
+[323] Log closed at 2019-04-15 01:17:02
+[323]
+[333] Log opened at 2019-04-15 01:18:01
+[333] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[333] I: Connected to client. :-)
+[333] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="333"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[333]
+[333] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[333]
+[333] Log closed at 2019-04-15 01:18:02
+[333]
+[340] Log opened at 2019-04-15 01:18:12
+[340] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[340] I: Connected to client. :-)
+[340] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="340"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[340]
+[344] Log opened at 2019-04-15 01:18:14
+[344] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[344] I: Connected to client. :-)
+[344] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/vendor/composer/composer/bin/composer" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="344"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[344]
+[365] Log opened at 2019-04-15 01:18:21
+[365] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[365] I: Connected to client. :-)
+[365] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="365"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[365]
+[365] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[365]
+[365] Log closed at 2019-04-15 01:18:22
+[365]
+[344] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[344]
+[344] Log closed at 2019-04-15 01:18:22
+[344]
+[340] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[340]
+[340] Log closed at 2019-04-15 01:18:22
+[340]
+[372] Log opened at 2019-04-15 01:19:01
+[372] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[372] I: Connected to client. :-)
+[372] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="372"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[372]
+[375] Log opened at 2019-04-15 01:19:01
+[375] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[375] I: Connected to client. :-)
+[375] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="375"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[375]
+[372] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[372]
+[372] Log closed at 2019-04-15 01:19:03
+[372]
+[375] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[375]
+[375] Log closed at 2019-04-15 01:19:03
+[375]
+[387] Log opened at 2019-04-15 01:20:01
+[387] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[387] I: Connected to client. :-)
+[387] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="387"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[387]
+[387] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[387]
+[387] Log closed at 2019-04-15 01:20:03
+[387]
+[394] Log opened at 2019-04-15 01:20:03
+[394] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[394] I: Connected to client. :-)
+[394] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="394"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[394]
+[398] Log opened at 2019-04-15 01:20:05
+[398] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[398] I: Connected to client. :-)
+[398] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/vendor/composer/composer/bin/composer" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="398"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[398]
+[419] Log opened at 2019-04-15 01:20:12
+[419] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[419] I: Connected to client. :-)
+[419] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="419"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[419]
+[419] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[419]
+[419] Log closed at 2019-04-15 01:20:14
+[419]
+[398] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[398]
+[398] Log closed at 2019-04-15 01:20:14
+[398]
+[394] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[394]
+[394] Log closed at 2019-04-15 01:20:14
+[394]
+[428] Log opened at 2019-04-15 01:21:01
+[428] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[428] I: Connected to client. :-)
+[428] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="428"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[428]
+[428] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[428]
+[428] Log closed at 2019-04-15 01:21:02
+[428]
+[435] Log opened at 2019-04-15 01:21:03
+[435] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[435] I: Connected to client. :-)
+[435] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="435"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[435]
+[435] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[435]
+[435] Log closed at 2019-04-15 01:21:04
+[435]
+[441] Log opened at 2019-04-15 01:22:01
+[441] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[441] I: Connected to client. :-)
+[441] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="441"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[441]
+[441] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[441]
+[441] Log closed at 2019-04-15 01:22:02
+[441]
+[448] Log opened at 2019-04-15 01:22:55
+[448] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[448] I: Connected to client. :-)
+[448] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="448"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[448]
+[448] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[448]
+[448] Log closed at 2019-04-15 01:22:57
+[448]
+[454] Log opened at 2019-04-15 01:23:01
+[454] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[454] I: Connected to client. :-)
+[454] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="454"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[454]
+[454] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[454]
+[454] Log closed at 2019-04-15 01:23:02
+[454]
+[463] Log opened at 2019-04-15 01:24:01
+[463] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[463] I: Connected to client. :-)
+[463] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="463"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[463]
+[463] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[463]
+[463] Log closed at 2019-04-15 01:24:02
+[463]
+[472] Log opened at 2019-04-15 01:25:01
+[472] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[472] I: Connected to client. :-)
+[472] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="472"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[472]
+[472] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[472]
+[472] Log closed at 2019-04-15 01:25:03
+[472]
+[479] Log opened at 2019-04-15 01:25:27
+[479] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[479] I: Connected to client. :-)
+[479] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="479"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[479]
+[479] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[479]
+[479] Log closed at 2019-04-15 01:25:29
+[479]
+[483] Log opened at 2019-04-15 01:25:40
+[483] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[483] I: Connected to client. :-)
+[483] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="483"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[483]
+[487] Log opened at 2019-04-15 01:25:41
+[487] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[487] I: Connected to client. :-)
+[487] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/vendor/composer/composer/bin/composer" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="487"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[487]
+[507] Log opened at 2019-04-15 01:25:50
+[507] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[507] I: Connected to client. :-)
+[507] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="507"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[507]
+[511] Log opened at 2019-04-15 01:25:51
+[511] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[511] I: Connected to client. :-)
+[511] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/vendor/composer/composer/bin/composer" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="511"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[511]
+[532] Log opened at 2019-04-15 01:25:58
+[532] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[532] I: Connected to client. :-)
+[532] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="532"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[532]
+[532] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[532]
+[532] Log closed at 2019-04-15 01:26:00
+[532]
+[511] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[511]
+[511] Log closed at 2019-04-15 01:26:00
+[511]
+[507] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[507]
+[507] Log closed at 2019-04-15 01:26:00
+[507]
+[541] Log opened at 2019-04-15 01:26:00
+[541] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[541] I: Connected to client. :-)
+[541] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="541"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[541]
+[541] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[541]
+[541] Log closed at 2019-04-15 01:26:02
+[541]
+[548] Log opened at 2019-04-15 01:26:36
+[548] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[548] I: Connected to client. :-)
+[548] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="548"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[548]
+[548] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[548]
+[548] Log closed at 2019-04-15 01:26:38
+[548]
+[552] Log opened at 2019-04-15 01:26:56
+[552] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[552] I: Connected to client. :-)
+[552] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="552"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[552]
+[552] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[552]
+[552] Log closed at 2019-04-15 01:26:58
+[552]
+[558] Log opened at 2019-04-15 01:27:01
+[558] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[558] I: Connected to client. :-)
+[558] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="558"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[558]
+[558] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[558]
+[558] Log closed at 2019-04-15 01:27:02
+[558]
+[565] Log opened at 2019-04-15 01:27:29
+[565] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[565] I: Connected to client. :-)
+[565] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="565"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[565]
+[565] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[565]
+[565] Log closed at 2019-04-15 01:27:31
+[565]
+[569] Log opened at 2019-04-15 01:27:43
+[569] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[569] I: Connected to client. :-)
+[569] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="569"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[569]
+[569] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[569]
+[569] Log closed at 2019-04-15 01:27:44
+[569]
+[575] Log opened at 2019-04-15 01:28:01
+[575] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[575] I: Connected to client. :-)
+[575] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="575"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[575]
+[575] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[575]
+[575] Log closed at 2019-04-15 01:28:02
+[575]
+[582] Log opened at 2019-04-15 01:28:29
+[582] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[582] I: Connected to client. :-)
+[582] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="582"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[582]
+[582] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[582]
+[582] Log closed at 2019-04-15 01:28:30
+[582]
+[588] Log opened at 2019-04-15 01:29:01
+[588] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[588] I: Connected to client. :-)
+[588] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="588"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[588]
+[588] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[588]
+[588] Log closed at 2019-04-15 01:29:02
+[588]
+[595] Log opened at 2019-04-15 01:29:16
+[595] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[595] I: Connected to client. :-)
+[595] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="595"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[595]
+[599] Log opened at 2019-04-15 01:29:17
+[599] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[599] I: Connected to client. :-)
+[599] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/vendor/composer/composer/bin/composer" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="599"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[599]
+[620] Log opened at 2019-04-15 01:29:24
+[620] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[620] I: Connected to client. :-)
+[620] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="620"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[620]
+[620] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[620]
+[620] Log closed at 2019-04-15 01:29:26
+[620]
+[599] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[599]
+[599] Log closed at 2019-04-15 01:29:26
+[599]
+[595] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[595]
+[595] Log closed at 2019-04-15 01:29:26
+[595]
+[627] Log opened at 2019-04-15 01:29:52
+[627] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[627] I: Connected to client. :-)
+[627] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="627"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[627]
+[627] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[627]
+[627] Log closed at 2019-04-15 01:29:54
+[627]
+[633] Log opened at 2019-04-15 01:30:01
+[633] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[633] I: Connected to client. :-)
+[633] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="633"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[633]
+[633] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[633]
+[633] Log closed at 2019-04-15 01:30:02
+[633]
+[640] Log opened at 2019-04-15 01:30:48
+[640] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[640] I: Connected to client. :-)
+[640] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="640"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[640]
+[640] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[640]
+[640] Log closed at 2019-04-15 01:30:49
+[640]
+[646] Log opened at 2019-04-15 01:31:01
+[646] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[646] I: Connected to client. :-)
+[646] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="646"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[646]
+[646] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[646]
+[646] Log closed at 2019-04-15 01:31:03
+[646]
+[653] Log opened at 2019-04-15 01:31:10
+[653] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[653] I: Connected to client. :-)
+[653] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="653"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[653]
+[653] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[653]
+[653] Log closed at 2019-04-15 01:31:11
+[653]
+[657] Log opened at 2019-04-15 01:31:14
+[657] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[657] I: Connected to client. :-)
+[657] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="657"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[657]
+[657] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[657]
+[657] Log closed at 2019-04-15 01:31:16
+[657]
+[663] Log opened at 2019-04-15 01:32:00
+[663] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[663] I: Connected to client. :-)
+[663] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="663"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[663]
+[663] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[663]
+[663] Log closed at 2019-04-15 01:32:02
+[663]
+[672] Log opened at 2019-04-15 01:33:01
+[672] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[672] I: Connected to client. :-)
+[672] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="672"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[672]
+[672] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[672]
+[672] Log closed at 2019-04-15 01:33:02
+[672]
+[681] Log opened at 2019-04-15 01:34:01
+[681] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[681] I: Connected to client. :-)
+[681] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="681"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[681]
+[681] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[681]
+[681] Log closed at 2019-04-15 01:34:02
+[681]
+[690] Log opened at 2019-04-15 01:39:15
+[690] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[690] I: Connected to client. :-)
+[690] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="690"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[690]
+[690] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[690]
+[690] Log closed at 2019-04-15 01:39:17
+[690]
+[699] Log opened at 2019-04-15 01:39:17
+[699] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[699] I: Connected to client. :-)
+[699] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="699"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[699]
+[699] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[699]
+[699] Log closed at 2019-04-15 01:39:18
+[699]
+[708] Log opened at 2019-04-15 01:39:18
+[708] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[708] I: Connected to client. :-)
+[708] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="708"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[708]
+[708] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[708]
+[708] Log closed at 2019-04-15 01:39:19
+[708]
+[717] Log opened at 2019-04-15 01:39:19
+[717] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[717] I: Connected to client. :-)
+[717] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="717"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[717]
+[717] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[717]
+[717] Log closed at 2019-04-15 01:39:21
+[717]
+[729] Log opened at 2019-04-15 01:39:21
+[729] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[729] I: Connected to client. :-)
+[729] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="729"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[729]
+[741] Log opened at 2019-04-15 01:39:21
+[741] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[741] I: Connected to client. :-)
+[741] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="dbgp://stdin" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="741"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[741]
+[741] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[741]
+[741] Log closed at 2019-04-15 01:39:21
+[741]
+[729] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[729]
+[729] Log closed at 2019-04-15 01:39:22
+[729]
+[764] Log opened at 2019-04-15 01:40:01
+[764] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[764] I: Connected to client. :-)
+[764] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="764"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[764]
+[764] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[764]
+[764] Log closed at 2019-04-15 01:40:02
+[764]
+[773] Log opened at 2019-04-15 01:41:01
+[773] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[773] I: Connected to client. :-)
+[773] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="773"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[773]
+[773] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[773]
+[773] Log closed at 2019-04-15 01:41:02
+[773]
+[783] Log opened at 2019-04-15 01:42:01
+[783] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[783] I: Connected to client. :-)
+[783] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="783"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[783]
+[783] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[783]
+[783] Log closed at 2019-04-15 01:42:03
+[783]
+[792] Log opened at 2019-04-15 01:43:01
+[792] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[792] I: Connected to client. :-)
+[792] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="792"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[792]
+[792] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[792]
+[792] Log closed at 2019-04-15 01:43:02
+[792]
+[801] Log opened at 2019-04-15 01:44:01
+[801] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[801] I: Connected to client. :-)
+[801] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="801"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[801]
+[801] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[801]
+[801] Log closed at 2019-04-15 01:44:02
+[801]
+[810] Log opened at 2019-04-15 01:45:01
+[810] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[810] I: Connected to client. :-)
+[810] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="810"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[810]
+[810] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[810]
+[810] Log closed at 2019-04-15 01:45:03
+[810]
+[819] Log opened at 2019-04-15 01:46:01
+[819] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[819] I: Connected to client. :-)
+[819] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="819"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[819]
+[819] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[819]
+[819] Log closed at 2019-04-15 01:46:02
+[819]

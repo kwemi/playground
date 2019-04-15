@@ -17,6 +17,9 @@ class DatabaseSeeder extends Seeder
         //$this->call(BoothSeeder::class);
         //$this->call(BoothLevelSeeder::class);
         //$this->call(ProductSeeder::class);
-        $this->call(ConfigurationSeeder::class);
+        //$this->call(ConfigurationSeeder::class);
+        //$this->call(RatingSeeder::class);
+        //$this->call(BasketSeeder::class);
+        $this->call(BasketProductSeeder::class);
     }
 }
