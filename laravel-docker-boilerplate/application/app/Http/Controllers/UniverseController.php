@@ -36,7 +36,8 @@ class UniverseController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $universe = Universe::create($request->all());
+        return response()->json($universe);
     }
 
     /**

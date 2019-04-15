@@ -36,7 +36,8 @@ class BasketController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $basket = Basket::create($request->all());
+        return response()->json($basket);
     }
 
     /**

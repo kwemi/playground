@@ -36,7 +36,8 @@ class BoothLevelController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $boothLevel = BoothLevel::create($request->all());
+        return response()->json($boothLevel);
     }
 
     /**

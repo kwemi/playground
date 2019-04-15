@@ -36,7 +36,8 @@ class BoothController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $booth = Booth::create($request->all());
+        return response()->json($booth);
     }
 
     /**

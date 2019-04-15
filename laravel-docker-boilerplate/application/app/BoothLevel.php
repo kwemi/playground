@@ -6,5 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class BoothLevel extends Model
 {
-    //
+    protected $fillable = ['booth_id','name', 'svg_map', 'order', 'is_active'];
 }

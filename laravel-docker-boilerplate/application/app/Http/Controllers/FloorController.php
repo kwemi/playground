@@ -36,7 +36,8 @@ class FloorController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $floor = Floor::create($request->all());
+        return response()->json($floor);
     }
 
     /**

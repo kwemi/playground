@@ -36,7 +36,8 @@ class RatingController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $rating = Rating::create($request->all());
+        return response()->json($rating);
     }
 
     /**
