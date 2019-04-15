@@ -36,7 +36,8 @@ class StoreController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $store = Store::create($request->all());
+        return response()->json($store);
     }
 
     /**
