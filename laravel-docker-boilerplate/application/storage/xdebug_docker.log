@@ -12432,3 +12432,12 @@
 [3145]
 [3145] Log closed at 2019-04-15 06:17:02
 [3145]
+[3155] Log opened at 2019-04-15 06:18:01
+[3155] I: Connecting to configured address/port: docker.for.mac.localhost:9000.
+[3155] I: Connected to client. :-)
+[3155] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/artisan" language="PHP" xdebug:language_version="7.3.2-3+ubuntu16.04.1+deb.sury.org+1" protocol_version="1.0" appid="3155"><engine version="2.7.0"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[3155]
+[3155] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[3155]
+[3155] Log closed at 2019-04-15 06:18:02
+[3155]

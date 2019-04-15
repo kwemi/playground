@@ -18,7 +18,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 // Store
-Route::get('/stores', 'StoreControPller@index')->name('stores.all');
+Route::get('/stores', 'StoreController@index')->name('stores.all');
 Route::get('/stores/{store}', 'StoreController@show')->name('stores.show');
 Route::post('/stores', 'StoreController@store')->name('stores.store');
 Route::put('/stores/{id}', 'StoreController@update')->name('stores.update');
